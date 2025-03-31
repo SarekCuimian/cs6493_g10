@@ -19,4 +19,4 @@ This repository contains evaluation pipelines and results for large language mod
 ## Methods 
 - COT (Wei J, Wang X et al.)
 - Self-Refine (Madaan A, Tandon N, Gupta P, et al.)
-- SelfConsistency (Wang X, Wei J, Schuurmans D, et al.)
+- Self-Consistency (Wang X, Wei J, Schuurmans D, et al.)
