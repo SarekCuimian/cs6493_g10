@@ -21,4 +21,4 @@ This repository contains evaluation pipelines and results for large language mod
 - Self-Consistency (Wang X, Wei J, Schuurmans D, et al.)
 
 ## Results
-results/{method_name}_{dataset_name}_{model_name}.csv
+results/{method_name}\_{dataset_name}\_{model_name}.csv
