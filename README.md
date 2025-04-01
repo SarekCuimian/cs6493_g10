@@ -1,4 +1,4 @@
-# cs_6493_g10
+# cs6493_g10
 CityU CS6493 Project Topic1
 
 This repository contains evaluation pipelines and results for large language models (Qwen, DeepSeek) on math-focused datasets（**GSM8K**, **MATH-500** and **AIME_1983_2024**)
