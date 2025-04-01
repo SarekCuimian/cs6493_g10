@@ -19,3 +19,6 @@ This repository contains evaluation pipelines and results for large language mod
 - COT (Wei J, Wang X et al.)
 - Self-Refine (Madaan A, Tandon N, Gupta P, et al.)
 - Self-Consistency (Wang X, Wei J, Schuurmans D, et al.)
+
+## Results
+results/{method_name}_{dataset_name}_{model_name}.csv
