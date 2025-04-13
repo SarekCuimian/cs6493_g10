@@ -104,4 +104,4 @@ def analyze_dataset(filepath, dataset_name):
 
 
 # === Run for both datasets ===
-analyze_dataset("results/COT_math500_qwen2.5-math-1.5b-instruct.csv", "MATH-500 (Qwen)")
+analyze_dataset("results/COT_math500_qwen.csv", "MATH-500 (Qwen)")
